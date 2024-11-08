@@ -1,2 +1,2 @@
 # NanoStarCTF
-In this Website you can improve your knowledge in cybersecurity and test it with practising with our daily, weekly tests.
+In this Website you can improve your knowledge in cybersecurity and test it with practising with our daily, weekly or monthly tests.
